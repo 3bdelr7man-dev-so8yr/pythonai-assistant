@@ -9,7 +9,7 @@
 Jarvis is a voice commanding assistant service in [Python 3.8](https://www.python.org/downloads/release/python-360/)
 It can recognize human speech, talk to user and execute basic commands.
 
-#### Requirements
+## Requirements
 
 * Operation system: **Ubuntu 20.04 (Focal Fossa)**
 * Python Version: **3.8.x**
